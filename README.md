@@ -41,6 +41,10 @@
 * jQuery 教程 | 菜鸟教程：[https://www.runoob.com/jquery/jquery-tutorial.html](https://www.runoob.com/jquery/jquery-tutorial.html)
 * 《后 jQuery 时代》：[https://juejin.im/post/59c9cc12f265da066e1749dd](https://juejin.im/post/59c9cc12f265da066e1749dd)
 
+## 数据结构和算法
+
+* Codewars 编程挑战：[https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
+
 ## 常用插件
 * Swiper 轮播图：[https://www.swiper.com.cn/](https://www.swiper.com.cn/)
 
@@ -49,7 +53,7 @@
 演示：[http://scrollmagic.io/examples/index.html](http://scrollmagic.io/examples/index.html)
 
 ## 参考网站
-WPS图片： [https://photoplus.wps.cn/home](https://photoplus.wps.cn/home)
+* WPS图片： [https://photoplus.wps.cn/home](https://photoplus.wps.cn/home)
 * Coloros：[https://www.coloros.com/topic/coloros7.html](https://www.coloros.com/topic/coloros7.html)
 
 ## 前端工程化
@@ -97,5 +101,6 @@ WPS图片： [https://photoplus.wps.cn/home](https://photoplus.wps.cn/home)
 * StackOverflow：[https://stackoverflow.com/](https://stackoverflow.com/)
 
 ## 其他
+* 前端代码规范：[https://guide.aotu.io/index.html](https://guide.aotu.io/index.html)
 * 网络工具-站长工具：[https://tool.chinaz.com/](https://tool.chinaz.com/)
 * 阿里云播放器：[https://help.aliyun.com/document_detail/125570.html?spm=a2c4g.11186623.6.1075.75715be0FD7UZ6](https://help.aliyun.com/document_detail/125570.html?spm=a2c4g.11186623.6.1075.75715be0FD7UZ6)
